@@ -8,7 +8,7 @@
 - Hello there, I’m Dani - aka @ultra-d, I'm a Network Engineer and I'm turning my life into code
 - I’m interested in cybersecurity and all about securing the virtual world :wink:
 - I love taking photos, flying drones, playing Ultimate Frisbee and xtreme adventures
-- Space fan girl, Huston :telescope:
+- Space fan girl, Houston :telescope:
 - Such a Tech lover and passionate person :zap:
 
 ## :octocat: 
